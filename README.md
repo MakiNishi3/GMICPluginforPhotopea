@@ -1,0 +1,2 @@
+# GMICPluginforPhotopea
+G'MIC
