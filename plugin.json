@@ -1,0 +1,9 @@
+{ "environment": {
+	"plugins" : [ 
+		{
+			"name"  : "G'MIC plugin",
+			"url"   : "https://gmicol.greyc.fr/",
+			"icon"  : "https://en.wikipedia.org/static/favicon/wikipedia.ico"
+		}
+	]
+} }
